@@ -30,3 +30,6 @@ class SerialGenerator:
     def reset(self):
         self.start = self.origin
 
+    def __repr__():
+        return f"our current index is {start}" "
+
